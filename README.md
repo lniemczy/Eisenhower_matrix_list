@@ -1,6 +1,6 @@
 # Eisenhower_matrix_list
 
-Aplikacja do tworzenie listy zadań do realizacji oparta na matrycy Eisenhowera.
+Aplikacja do tworzenie listy zadań oparta na matrycy Eisenhowera.
 
 Celem aplikacji jest podzielenie wszystkich zadań na 4 kategorie:
 - Ważne i Pilne
