@@ -7,6 +7,9 @@ import { LoginComponent } from './login/login.component';
 import { ListUserComponent } from './user/list-user/list-user.component';
 import { AddUserComponent } from './user/add-user/add-user.component';
 import { EditUserComponent } from './user/edit-user/edit-user.component';
+import { ListTodoComponent } from './todo/list-todo/list-todo.component';
+import { AddTodoComponent } from './todo/add-todo/add-todo.component';
+import { EditTodoComponent } from './todo/edit-todo/edit-todo.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { EditUserComponent } from './user/edit-user/edit-user.component';
     LoginComponent,
     ListUserComponent,
     AddUserComponent,
-    EditUserComponent
+    EditUserComponent,
+    ListTodoComponent,
+    AddTodoComponent,
+    EditTodoComponent
   ],
   imports: [
     BrowserModule,
